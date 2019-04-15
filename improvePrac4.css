@@ -35,11 +35,15 @@ body{
 
 .container{
   height: 100px;
-  color: #DBB8FF;
 }
 
 .card h2{
   text-align: center;
+  color: #DBB8FF;
+}
+
+.card p{
+  color: #DBB8FF;
 }
 
 @media screen and (min-width: 500px){
